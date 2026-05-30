@@ -1,6 +1,6 @@
 {
   "name": "miniprogram-deployer",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "A CLI tool for deploying WeChat Mini Program to preview, development, experience and publishing cloud functions.",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
@@ -32,7 +32,7 @@
     "miniprogram-ci",
     "cloud-function"
   ],
-  "author": "",
+  "author": "MinteLiu <minteliu.l@gmail.com>",
   "license": "MIT",
   "dependencies": {
     "chalk": "^4.1.2",
@@ -70,6 +70,6 @@
   },
   "repository": {
     "type": "git",
-    "url": ""
+    "url": "https://github.com/minteliuwm/miniprogram-deployer.git"
   }
 }
